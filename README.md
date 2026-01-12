@@ -56,8 +56,8 @@ const year = new Date().getFullYear();
 console.log(year);
 ```
 
-| GIT         | HTML     | CSS  | JS     |
-| -----------------------|------|--------|
+| GIT | HTML | CSS | JS |
+| --- | --- | --- | --- |
 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
 
 
