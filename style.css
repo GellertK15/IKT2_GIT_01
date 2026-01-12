@@ -21,3 +21,12 @@ main {
     background-color: #aaaaff;
     color: black;
 }
+.images {
+    display: flex;
+}
+
+@media (max-width: 768px) {
+    .images {
+        flex-direction: column;
+    }
+}
